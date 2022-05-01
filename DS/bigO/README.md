@@ -1,6 +1,6 @@
 # Data Structure
 ## Big O Cheat Sheet:
-
+- [Time and Space complexity of different algorithms](https://www.bigocheatsheet.com/)
 ### Big Os
 - O(1) Constant- no loops
 - O(log N) Logarithmic- usually searching algorithms have log n if they are sorted (Binary Search)
