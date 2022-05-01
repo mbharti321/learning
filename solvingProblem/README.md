@@ -1,6 +1,7 @@
 # Interview Cheat Sheet
 From Andrei Neagoie's Master The Coding Interview: Data Structures + Algorithms
-
+- [How to: Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw)
+  
 The 3 pillars of good code:
 1. Readable
 2. Time Complexity
